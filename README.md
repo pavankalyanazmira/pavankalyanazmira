@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pavankalyanazmira
+- 👋 Hi, I’m @pavankalyan azmira
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning java,ruby.and rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me byt instagram its_ogm_777
+- 📫 How to reach me by instagram its_ogm_777
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...im a human
 
